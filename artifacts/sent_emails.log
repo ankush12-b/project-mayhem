@@ -1,0 +1,77 @@
+
+========================================
+TIMESTAMP: 2026-06-25T16:53:09.657Z
+TO: sohammore3312@gmail.com
+FROM: PROJECT NULL <onboarding@resend.dev>
+SUBJECT: [CLASSIFIED] Recovered Transmission — Site Kennedy
+----------------------------------------
+[HTML CONTENT]:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/><meta name="x-apple-disable-message-reformatting"/></head><body style="background-color:#050505;padding:0"><!--$--><!--html--><!--head--><!--body--><table border="0" width="100%" cellPadding="0" cellSpacing="0" role="presentation" align="center"><tbody><tr><td style="background-color:#050505;color:#c8c0b0;font-family:monospace, &quot;Courier New&quot;, Courier;padding:20px 0"><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="max-width:600px;background-color:#0a0806;border:1px solid #1a4a1a;margin:0 auto;padding:30px"><tbody><tr style="width:100%"><td><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="text-align:center;margin-bottom:20px"><tbody><tr><td><p style="font-size:12px;line-height:24px;color:#ff4444;font-weight:bold;letter-spacing:0.1em;margin:0 0 10px 0;margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0">⚡ WARNING: AUTHORIZED DIRECTIVE ONLY ⚡</p><h1 style="color:#4aff4a;font-size:20px;margin:10px 0;letter-spacing:0.05em">CASE FILE 07 — OPERATION DEADLIGHT</h1><p style="font-size:10px;line-height:24px;color:#8a8070;margin:0;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0">CLASSIFICATION: RESTRICTED // SITE KENNEDY ARCHIVES</p></td></tr></tbody></table><hr style="width:100%;border:none;border-top:1px solid #eaeaea;border-color:#1a4a1a;margin:20px 0"/><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="margin-bottom:20px"><tbody><tr><td><p style="font-size:12px;line-height:1.6;color:#aaa08f;background-color:#0f0c08;padding:12px;border-left:2px solid #8b1a1a;margin-bottom:20px;margin-top:16px"><strong>AGENT STATUS:</strong> <span style="color:#ff4444;font-weight:bold">FLAGGED</span><br/><strong>SECTOR ASSIGNMENT:</strong> <!-- -->A-BLOCK<br/><strong>RECIPIENT:</strong> <!-- -->SM</p><p style="font-size:13px;line-height:1.6;margin:15px 0;color:#c8c0b0;margin-top:15px;margin-right:0;margin-bottom:15px;margin-left:0">6 encoded data packets were intercepted from the organism&#x27;s neural network. Each packet uses a different encoding method and contains a single number.</p><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="background-color:#0a0a0a;border:1px solid #3a3020;padding:12px;margin:16px 0"><tbody><tr><td><p style="font-size:12px;line-height:24px;color:#b8862a;font-weight:bold;margin:0 0 6px 0;margin-top:0;margin-right:0;margin-bottom:6px;margin-left:0">INSTRUCTIONS:</p><p style="font-size:12px;line-height:24px;margin:4px 0;color:#c8c0b0;margin-top:4px;margin-right:0;margin-bottom:4px;margin-left:0">1. Decode each packet to its <strong style="color:#e8c060">decimal value</strong>.</p><p style="font-size:12px;line-height:24px;margin:4px 0;color:#c8c0b0;margin-top:4px;margin-right:0;margin-bottom:4px;margin-left:0">2. Map each decimal to the alphabet (<span style="color:#e8c060">1=A, 2=B, ... 26=Z</span>).</p><p style="font-size:12px;line-height:24px;margin:4px 0;color:#c8c0b0;margin-top:4px;margin-right:0;margin-bottom:4px;margin-left:0">3. Compile the 6 letters in packet order to form the <strong style="color:#e8c060">classification code</strong>.</p></td></tr></tbody></table><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="background-color:#080806;border-left:3px solid #1a4a1a;padding:12px;margin:12px 0"><tbody><tr><td><p style="font-size:12px;line-height:24px;color:#4aff4a;margin:0 0 6px 0;font-weight:bold;margin-top:0;margin-right:0;margin-bottom:6px;margin-left:0">PACKET 1 — BINARY (Base-2)</p><code style="color:#e8c060;font-size:14px;font-weight:bold;font-family:monospace">00010000</code><p style="font-size:11px;line-height:1.4;color:#8a8070;margin:6px 0 0 0;margin-top:6px;margin-right:0;margin-bottom:0;margin-left:0">Standard 8-bit binary. Bit positions: (128, 64, 32, 16, 8, 4, 2, 1). Sum the positions where &#x27;1&#x27; appears.</p></td></tr></tbody></table><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="background-color:#080806;border-left:3px solid #1a3a5a;padding:12px;margin:12px 0"><tbody><tr><td><p style="font-size:12px;line-height:24px;color:#aaccff;margin:0 0 6px 0;font-weight:bold;margin-top:0;margin-right:0;margin-bottom:6px;margin-left:0">PACKET 2 — HEXADECIMAL (Base-16)</p><code style="color:#e8c060;font-size:14px;font-weight:bold;font-family:monospace">0x0C</code><p style="font-size:11px;line-height:1.4;color:#8a8070;margin:6px 0 0 0;margin-top:6px;margin-right:0;margin-bottom:0;margin-left:0">Base-16 digits: 0-9, then A=10, B=11, C=12, D=13, E=14, F=15. Convert to decimal.</p></td></tr></tbody></table><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="background-color:#080806;border-left:3px solid #5a1a5a;padding:12px;margin:12px 0"><tbody><tr><td><p style="font-size:12px;line-height:24px;color:#cc88ff;margin:0 0 6px 0;font-weight:bold;margin-top:0;margin-right:0;margin-bottom:6px;margin-left:0">PACKET 3 — OCTAL (Base-8)</p><code style="color:#e8c060;font-size:14px;font-weight:bold;font-family:monospace">01</code><p style="font-size:11px;line-height:1.4;color:#8a8070;margin:6px 0 0 0;margin-top:6px;margin-right:0;margin-bottom:0;margin-left:0">Base-8 number system. Each digit represents powers of 8. Convert to decimal.</p></td></tr></tbody></table><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="background-color:#080806;border-left:3px solid #5a3a1a;padding:12px;margin:12px 0"><tbody><tr><td><p style="font-size:12px;line-height:24px;color:#ffaa44;margin:0 0 6px 0;font-weight:bold;margin-top:0;margin-right:0;margin-bottom:6px;margin-left:0">PACKET 4 — BASE64</p><code style="color:#e8c060;font-size:14px;font-weight:bold;font-family:monospace">Bw==</code><p style="font-size:11px;line-height:1.4;color:#8a8070;margin:6px 0 0 0;margin-top:6px;margin-right:0;margin-bottom:0;margin-left:0">Base64 decodes to raw bytes. Decode &quot;Bw==&quot; to get a single byte, then read its decimal value.<br/><span style="color:#6a6050">Technical hint: &#x27;B&#x27; = index 1, &#x27;w&#x27; = index 48. Combined: (1 &lt;&lt; 2) | (48 &gt;&gt; 4) = 7.</span></p></td></tr></tbody></table><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="background-color:#080806;border-left:3px solid #1a4a1a;padding:12px;margin:12px 0"><tbody><tr><td><p style="font-size:12px;line-height:24px;color:#4aff4a;margin:0 0 6px 0;font-weight:bold;margin-top:0;margin-right:0;margin-bottom:6px;margin-left:0">PACKET 5 — ASCII ARITHMETIC</p><code style="color:#e8c060;font-size:14px;font-weight:bold;font-family:monospace">chr(66) - chr(65)</code><p style="font-size:11px;line-height:1.4;color:#8a8070;margin:6px 0 0 0;margin-top:6px;margin-right:0;margin-bottom:0;margin-left:0">ASCII character code subtraction. Look up the decimal values: &#x27;A&#x27;=65, &#x27;B&#x27;=66, &#x27;C&#x27;=67, etc. Subtract.</p></td></tr></tbody></table><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="background-color:#080806;border-left:3px solid #5a1a1a;padding:12px;margin:12px 0"><tbody><tr><td><p style="font-size:12px;line-height:24px;color:#ff6644;margin:0 0 6px 0;font-weight:bold;margin-top:0;margin-right:0;margin-bottom:6px;margin-left:0">PACKET 6 — BINARY XOR</p><code style="color:#e8c060;font-size:14px;font-weight:bold;font-family:monospace">11001 XOR 01010</code><p style="font-size:11px;line-height:1.4;color:#8a8070;margin:6px 0 0 0;margin-top:6px;margin-right:0;margin-bottom:0;margin-left:0">Bitwise XOR on two 5-bit numbers, then convert result to decimal.<br/>XOR rule: same bits → 0, different bits → 1.</p></td></tr></tbody></table><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="background-color:#0c0c0c;border:1px dashed #3a3020;padding:12px;margin:20px 0"><tbody><tr><td><p style="font-size:11px;line-height:24px;color:#b8862a;font-weight:bold;margin:0 0 6px 0;margin-top:0;margin-right:0;margin-bottom:6px;margin-left:0">ALPHABET REFERENCE:</p><code style="color:#8a8070;font-size:10px;line-height:1.6">A=1   B=2   C=3   D=4   E=5   F=6   G=7   H=8   I=9   J=10   K=11   L=12   M=13<br/>N=14   O=15   P=16   Q=17   R=18   S=19   T=20   U=21   V=22   W=23   X=24   Y=25   Z=26</code></td></tr></tbody></table><p style="font-size:13px;line-height:1.6;margin:15px 0;color:#c8c0b0;margin-top:15px;margin-right:0;margin-bottom:15px;margin-left:0">Upon proper reconstruction, investigators established the decryption validation key format:</p><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="background-color:#12100a;border:1px solid #b8862a;padding:15px;text-align:center;margin:20px 0"><tbody><tr><td><p style="font-size:18px;line-height:24px;color:#b8862a;font-weight:bold;letter-spacing:0.2em;margin:0;text-shadow:0 0 8px rgba(184, 134, 42, 0.3);margin-top:0;margin-bottom:0;margin-left:0;margin-right:0">XXXX-[DECODED_CODE]-XXXX</p></td></tr></tbody></table><p style="font-size:13px;line-height:1.6;margin:15px 0;color:#c8c0b0;margin-top:15px;margin-right:0;margin-bottom:15px;margin-left:0">Replace <strong style="color:#e8c060">[DECODED_CODE]</strong> with the 6-letter classification code you deciphered from the 6 data packets above to form the final validation key (e.g., <code style="color:#aaa08f">XXXX-XXXXXX-XXXX</code>).</p><p style="font-size:11px;line-height:1.4;color:#8b1a1a;text-align:center;margin-top:20px;margin-bottom:16px">⚠ DO NOT SHARE THIS KEY. ALL VALIDATION ATTEMPTS ARE LOGGED SERVER-SIDE AND TRACED TO AGENT CREDENTIALS.</p></td></tr></tbody></table><hr style="width:100%;border:none;border-top:1px solid #eaeaea;border-color:#1a4a1a;margin:20px 0"/><table align="center" width="100%" border="0" cellPadding="0" cellSpacing="0" role="presentation" style="text-align:center"><tbody><tr><td><p style="font-size:10px;line-height:1.6;color:#5a5040;margin:0;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0">PROJECT NULL // SITE KENNEDY COMMAND HQ // 1996<br/>SECURITY DIVISION — BIOLOGICAL CONTAINMENT RESPONSE</p></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!--/$--></body></html>
+
+[TEXT CONTENT]:
+
+PROJECT NULL // INTERCEPTED DATA PACKETS // SITE KENNEDY
+----------------------------------------------------------------------
+RECOVERY AGENT: SM — SECTOR: A-BLOCK
+
+6 encoded data packets were intercepted from the organism's neural 
+network. Each packet uses a different encoding method and contains a 
+single number.
+
+STEP 1: Decode each packet to its decimal value.
+STEP 2: Map each decimal to its position in the alphabet (1=A, 2=B, ... 26=Z).
+STEP 3: Compile the 6 letters in order to form the classification code.
+
+----------------------------------------------------------------------
+
+PACKET 1 — BINARY ENCODING (Base-2)
+Data: 00010000
+Method: Standard 8-bit unsigned binary.
+Each bit position represents a power of 2: (128, 64, 32, 16, 8, 4, 2, 1).
+Add up the positions where a '1' appears.
+
+PACKET 2 — HEXADECIMAL ENCODING (Base-16)
+Data: 0x0C
+Method: Base-16 number system. 
+Digits: 0-9 then A=10, B=11, C=12, D=13, E=14, F=15.
+Convert to decimal.
+
+PACKET 3 — OCTAL ENCODING (Base-8)
+Data: 01
+Method: Base-8 number system.
+Each digit represents a power of 8. Convert to decimal.
+
+PACKET 4 — BASE64 ENCODING
+Data: Bw==
+Method: Base64 decodes to raw bytes. 
+Decode "Bw==" to get a single byte. The byte's decimal value is your number.
+Technical hint: 'B' in Base64 = index 1, 'w' = index 48. Combined: (1 << 2) | (48 >> 4) = 7.
+
+PACKET 5 — ASCII ARITHMETIC
+Data: chr(66) - chr(65)
+Method: ASCII character code subtraction.
+Look up the ASCII decimal values of the characters, then subtract.
+'A' = 65, 'B' = 66, 'C' = 67, etc.
+
+PACKET 6 — BINARY XOR OPERATION
+Data: 11001 XOR 01010
+Method: Perform bitwise XOR on the two 5-bit binary numbers, 
+then convert the result to decimal.
+XOR rule: same bits = 0, different bits = 1.
+
+----------------------------------------------------------------------
+REFERENCE TABLE: 
+A=1  B=2  C=3  D=4  E=5  F=6  G=7  H=8  I=9  J=10 K=11 L=12 M=13
+N=14 O=15 P=16 Q=17 R=18 S=19 T=20 U=21 V=22 W=23 X=24 Y=25 Z=26
+----------------------------------------------------------------------
+
+	Upon proper reconstruction, investigators established the decryption validation key format:
+	XXXX-[DECODED_CODE]-XXXX
+	
+	Replace [DECODED_CODE] with the 6-letter classification code you deciphered from the 6 data packets above to form the final validation key (e.g., XXXX-XXXXXX-XXXX).
+
+⚠ DO NOT SHARE THIS KEY. ALL VALIDATION ATTEMPTS ARE LOGGED SERVER-SIDE AND TRACED TO AGENT CREDENTIALS.
+PROJECT NULL // SITE KENNEDY COMMAND HQ // 1996
+
+========================================
+
