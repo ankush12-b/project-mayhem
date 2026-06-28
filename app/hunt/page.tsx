@@ -21,6 +21,8 @@ export default function HuntPage() {
             href={
               fileName === "Case-File-01"
                 ? "/hunt/case-01"
+                : fileName === "Case-File-03"
+                ? "/hunt/case-03"
                 : fileName === "Case-File-05"
                 ? "/hunt/case-05"
                 : "#"
